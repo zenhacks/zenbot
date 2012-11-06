@@ -18,6 +18,9 @@
     "hubot": "2.3.2",
     "hubot-hipchat": ">= 1.1.2",
     "hubot-scripts": ">= 2.1.0",
+    "sandbox": "0.8.3",
+    "xml2js": "0.1.14",
+    "jsdom": "0.2.14",
     "optparse": "1.0.3"
   },
 

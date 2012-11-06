@@ -1,1 +1,27 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee",
+  "tweet.coffee",
+  "github-issues.coffee",
+  "abstract.coffee",
+  "animal.coffee",
+  "ascii.coffee",
+  "b6n.coffee",
+  "bangbang.coffee",
+  "base64.coffee",
+  "chat.coffee",
+  "cheer.coffee",
+  "complete.coffee",
+  "hackernews.coffee",
+  "insult.coffee",
+  "availability.coffee",
+  "wikipedia.coffee",
+  "ping.coffee",
+  "ruby.coffee",
+  "tell.coffee",
+  "url.coffee",
+  "uptime.coffee",
+  "weather.coffee",
+  "yoda-pictures.coffee",
+  "yoda-quotes.coffee",
+  "pomodoro.coffee", "shipit.coffee"
+]
